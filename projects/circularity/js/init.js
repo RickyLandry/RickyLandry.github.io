@@ -21,7 +21,7 @@ var init = function (window) {
         
         // TODO 1 : Declare and initialize our variables
         var circle;
-        var circles [];
+        var circles = [0, 1, 2, 3];
 
 
         // TODO 2 : Create a function that draws a circle 
